@@ -4,6 +4,9 @@ namespace SOLIDPrinciples.OpenClosedRefactored
 {
     public class OpenClosedDemo : MonoBehaviour
     {
+        // Open/Closed Principle (Açık/Kapalı Prensibi) Tanımı:
+        // Yazılım birimleri (sınıflar, modüller, fonksiyonlar vb.) 
+        // yeni davranışlar eklenmesine AÇIK, ancak mevcut kodların değiştirilmesine KAPALI olmalıdır.
         private void Start()
         {
             // Farklı silah türlerini türetiyoruz.
