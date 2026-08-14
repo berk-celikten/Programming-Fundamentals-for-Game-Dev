@@ -9,7 +9,7 @@ namespace OOPPrinciples.Inheritance
         // Mevcut soyutlamalara (sınıflara) dayanarak yeni soyutlamalar/sınıflar oluşturabilme yeteneğidir.
         // Alt sınıflar, üst sınıfın tüm ortak özelliklerini ve davranışlarını miras alır.
 
-        private void Start() // Oyun başladığında Unity tarafından çağrılan ilk metot.
+        private void Start() 
         {
             // ATA (BASE) SINIFTAN NESNE OLUŞTURMA:
             Animal animal = new Animal();
