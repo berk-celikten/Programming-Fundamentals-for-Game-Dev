@@ -1,6 +1,7 @@
 using UnityEngine;
 
-namespace SOLIDPrinciples.DependencyInversionRefactored 
+namespace SOLIDPrinciples.DependencyInversionRefactored
+{
     public class DependencyInversionDemo : MonoBehaviour
     {
         // Dependency Inversion Principle (Bağımlılıkların Tersine Çevrilmesi Prensibi) Tanımı:
