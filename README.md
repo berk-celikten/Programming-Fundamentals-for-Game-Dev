@@ -3,17 +3,17 @@
 ## Contents
 
 ### Object Oriented Programming Principles
-- [Encapsulation](Assets/Scripts/OOP/Encapsulation.md)
-- [Inheritance](Assets/Scripts/OOP/Inheritance.md)
-- [Polymorphism](Assets/Scripts/OOP/Polymorphism.md)
-- [Abstraction](Assets/Scripts/OOP/Abstraction.md)
+- [Encapsulation](Assets/Scripts/OOPPrinciples/Encapsulation)
+- [Inheritance](Assets/Scripts/OOPPrinciples/Inheritance)
+- [Polymorphism](Assets/Scripts/OOPPrinciples/Polymorphism)
+- [Abstraction](Assets/Scripts/OOPPrinciples/Abstraction)
 
 ### SOLID Principles
-- [Single Responsibility](Assets/Scripts/SOLID/SingleResponsibility.md)
-- [Open Closed](Assets/Scripts/SOLID/OpenClosed.md)
-- [Liskov Substitution](Assets/Scripts/SOLID/LiskovSubstitution.md)
-- [Interface Segregation](Assets/Scripts/SOLID/InterfaceSegregation.md)
-- [Dependency Inversion](Assets/Scripts/SOLID/DependencyInversion.md)
+- [Single Responsibility](Assets/Scripts/SOLIDPrinciples/SingleResponsibility)
+- [Open Closed](Assets/Scripts/SOLIDPrinciples/OpenClosed)
+- [Liskov Substitution](Assets/Scripts/SOLIDPrinciples/LiskovSubstitution)
+- [Interface Segregation](Assets/Scripts/SOLIDPrinciples/InterfaceSegregation)
+- [Dependency Inversion](Assets/Scripts/SOLIDPrinciples/DependencyInversion)
 
 ### Design Patterns
 - [Command](Assets/Scripts/DesignPatterns/Command)
